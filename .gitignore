@@ -1,0 +1,51 @@
+# Visual Studio 生成文件
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# 构建结果
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 缓存文件
+*.vs/
+*.vscode/
+.vs/
+
+# 中间文件
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+
+# 可执行文件（可选，如果想上传编译后的文件可以注释掉）
+*.exe
+*.dll
+*.ilk
+*.pdb
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
